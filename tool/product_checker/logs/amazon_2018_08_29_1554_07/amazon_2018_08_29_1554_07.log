@@ -1,0 +1,211 @@
+Chrome driver path: ..\webdriver\chromedriver.exe
+Running Headless Chrome
+Alias csv header: 'Alias'
+Using these entries: {1: 'Loreal', 2: "L'Oreal'"}
+
+Amazon: 'Loreal Dulcia'
+Google: 'Loreal Dulcia'
+Google result entries: 5
+22 results for Beauty :  "Loreal Dulcia"
+Amazon result original: '22 results for Beauty :  "Loreal Dulcia"'
+Google result original: '(L'Oréal Care & Styling Dulcia Advanced 3 75ml €6.85 (£6.20) from 4 shops  )(L'Oréal Care & Styling Dulcia Advanced Fixer 1L €20.56 (£18.60) from 5+ shops  )(L'Oreal Professionnel Dulcia Tonic 1T 75Ml V272 75 75 ml €11.39 from 3 shops  )'
+Amazon result modified: '22 results for Beauty :  "Loreal Dulcia"'
+Google result modified: '(L'Oréal Care & Styling Dulcia Advanced 3 75ml €6.85 (£6.20) from 4 shops  )(L'Oréal Care & Styling Dulcia Advanced Fixer 1L €20.56 (£18.60) from 5+ shops  )(L'Oreal Professionnel Dulcia Tonic 1T 75Ml V272 75 75 ml €11.39 from 3 shops  )'
+Amazon hit pattern result: [u'22']
+Google hit pattern result: [u'3', u'75', u'6', u'85', u'6', u'2', u'4', u'1', u'2', u'56', u'18', u'6', u'5', u'1', u'75', u'272', u'75', u'75', u'11', u'39', u'3']
+writing to csv: Loreal Dulcia,Hits,22 results for Beauty :  "Loreal Dulcia",(L'Oréal Care & Styling Dulcia Advanced 3 75ml €6.85 (£6.20) from 4 shops  )(L'Oréal Care & Styling Dulcia Advanced Fixer 1L €20.56 (£18.60) from 5+ shops  )(L'Oreal Professionnel Dulcia Tonic 1T 75Ml V272 75 75 ml €11.39 from 3 shops  )
+
+
+Amazon: 'Loreal hair spa'
+Google: 'Loreal hair spa'
+Could not click on Google search button
+30 results for Beauty :  "Loreal hair spa"
+Amazon result original: '30 results for Beauty :  "Loreal hair spa"'
+Google result original: 'Undetermined - Manual check needed*'
+Amazon result modified: '30 results for Beauty :  "Loreal hair spa"'
+Google result modified: 'Undetermined - Manual check needed*'
+Amazon hit pattern result: [u'3']
+Google hit pattern result: []
+writing to csv: Loreal hair spa,Hit,30 results for Beauty :  "Loreal hair spa",Undetermined - Manual check needed*
+
+
+Amazon: 'Loreal infinium'
+Google: 'Loreal infinium'
+Google result entries: 8
+1-48 of 58 results for Beauty :  "Loreal infinium"
+Amazon result original: '1-48 of 58 results for Beauty :  "Loreal infinium"'
+Google result original: '(L'Oreal Professionnel Hair styling Infinium Infinium Extreme 75 ml €4.01 from parfumdreams.IE  )(L'Oreal Professionnel Infinium Extra Strong (500ml) €10.95 from 5+ shops  )(L'Oreal Professionnel Infinium Soft (500ml) €9.45 from 5+ shops  )'
+Amazon result modified: '1-48 of 58 results for Beauty :  "Loreal infinium"'
+Google result modified: '(L'Oreal Professionnel Hair styling Infinium Infinium Extreme 75 ml €4.01 from parfumdreams.IE  )(L'Oreal Professionnel Infinium Extra Strong (500ml) €10.95 from 5+ shops  )(L'Oreal Professionnel Infinium Soft (500ml) €9.45 from 5+ shops  )'
+Amazon hit pattern result: [u'1', u'48', u'58']
+Google hit pattern result: [u'75', u'4', u'1', u'5', u'1', u'95', u'5', u'5', u'9', u'45', u'5']
+writing to csv: Loreal infinium,Hits,1-48 of 58 results for Beauty :  "Loreal infinium",(L'Oreal Professionnel Hair styling Infinium Infinium Extreme 75 ml €4.01 from parfumdreams.IE  )(L'Oreal Professionnel Infinium Extra Strong (500ml) €10.95 from 5+ shops  )(L'Oreal Professionnel Infinium Soft (500ml) €9.45 from 5+ shops  )
+
+
+Amazon: 'Loreal botonical'
+Google: 'Loreal botonical'
+Google result entries: 20
+No result: Your search "Loreal botonical" did not match any products.
+Amazon result original: 'No result: Your search "Loreal botonical" did not match any products.'
+Google result original: '(Botanicals Coriander Strength Source Pack 2 pieces €15.76 from 2 shops  )(L'Oreal Serie Expert Sensi Balance Shampoo 1500ml €25.99 from 5+ shops  )(L'Oréal Professionnel 1000ml Pump €2.95 from 3 shops  )'
+Amazon result modified: 'No result: Your search "Loreal botonical" did not match any products.'
+Google result modified: '(Botanicals Coriander Strength Source Pack 2 pieces €15.76 from 2 shops  )(L'Oreal Serie Expert Sensi Balance Shampoo 1500ml €25.99 from 5+ shops  )(L'Oréal Professionnel 1000ml Pump €2.95 from 3 shops  )'
+Amazon hit pattern result: []
+Google hit pattern result: [u'2', u'15', u'76', u'2', u'15', u'25', u'99', u'5', u'1', u'2', u'95', u'3']
+writing to csv: Loreal botonical,Hit,No result: Your search "Loreal botonical" did not match any products.,(Botanicals Coriander Strength Source Pack 2 pieces €15.76 from 2 shops  )(L'Oreal Serie Expert Sensi Balance Shampoo 1500ml €25.99 from 5+ shops  )(L'Oréal Professionnel 1000ml Pump €2.95 from 3 shops  )
+
+
+Amazon: 'Loreal lumi oil'
+Google: 'Loreal lumi oil'
+Google result entries: 10
+4 results for Beauty :  "Loreal lumi oil"
+Amazon result original: '4 results for Beauty :  "Loreal lumi oil"'
+Google result original: '(L'Oreal Professionnel Hair care Mythic Oil Mythic Oil 30 ml €6.35 from parfumdreams.IE  )(L'Oreal Paris Smooth Sugars Nourishing Sugar Scrub 50ml €9.45 from 5+ shops  )(L'Oreal Serie Expert Nutrifier Conditioner 1000ml €25.99 from Terrisales Salon Supplies  )'
+Amazon result modified: '4 results for Beauty :  "Loreal lumi oil"'
+Google result modified: '(L'Oreal Professionnel Hair care Mythic Oil Mythic Oil 30 ml €6.35 from parfumdreams.IE  )(L'Oreal Paris Smooth Sugars Nourishing Sugar Scrub 50ml €9.45 from 5+ shops  )(L'Oreal Serie Expert Nutrifier Conditioner 1000ml €25.99 from Terrisales Salon Supplies  )'
+Amazon hit pattern result: [u'4']
+Google hit pattern result: [u'3', u'6', u'35', u'5', u'9', u'45', u'5', u'1', u'25', u'99']
+writing to csv: Loreal lumi oil,Hits,4 results for Beauty :  "Loreal lumi oil",(L'Oreal Professionnel Hair care Mythic Oil Mythic Oil 30 ml €6.35 from parfumdreams.IE  )(L'Oreal Paris Smooth Sugars Nourishing Sugar Scrub 50ml €9.45 from 5+ shops  )(L'Oreal Serie Expert Nutrifier Conditioner 1000ml €25.99 from Terrisales Salon Supplies  )
+
+
+Amazon: 'Loreal divers'
+Google: 'Loreal divers'
+3 results for Beauty :  "Loreal divers"
+Amazon result original: '3 results for Beauty :  "Loreal divers"'
+Google result original: 'No result:    Your search - Loreal divers - did not match any shopping results.   Suggestions: Make sure that all words are spelled correctly.Try different keywords.Try more general keywords.Try fewer keywords.  '
+Amazon result modified: '3 results for Beauty :  "Loreal divers"'
+Google result modified: 'No result:    Your search - Loreal divers - did not match any shopping results.   Suggestions: Make sure that all words are spelled correctly.Try different keywords.Try more general keywords.Try fewer keywords.  '
+Amazon hit pattern result: [u'3']
+Google hit pattern result: []
+writing to csv: Loreal divers,Hit,3 results for Beauty :  "Loreal divers",No result:    Your search - Loreal divers - did not match any shopping results.   Suggestions: Make sure that all words are spelled correctly.Try different keywords.Try more general keywords.Try fewer keywords.  
+
+
+Amazon: 'Loreal laques'
+Google: 'Loreal laques'
+Google result entries: 6
+34 results for Beauty :  "Loreal laques"
+Amazon result original: '34 results for Beauty :  "Loreal laques"'
+Google result original: '(L'Oreal Professionnel Infinium Soft (500ml) €9.45 from 5+ shops  )(L'Oreal Professionnel Infinium Extra Strong (500ml) €10.95 from 5+ shops  )(L'Oreal Professionnel Hair styling Infinium Infinium Strong 500 ml €13.77 from 5+ shops  )'
+Amazon result modified: '34 results for Beauty :  "Loreal laques"'
+Google result modified: '(L'Oreal Professionnel Infinium Soft (500ml) €9.45 from 5+ shops  )(L'Oreal Professionnel Infinium Extra Strong (500ml) €10.95 from 5+ shops  )(L'Oreal Professionnel Hair styling Infinium Infinium Strong 500 ml €13.77 from 5+ shops  )'
+Amazon hit pattern result: [u'34']
+Google hit pattern result: [u'5', u'9', u'45', u'5', u'5', u'1', u'95', u'5', u'5', u'13', u'77', u'5']
+writing to csv: Loreal laques,Hits,34 results for Beauty :  "Loreal laques",(L'Oreal Professionnel Infinium Soft (500ml) €9.45 from 5+ shops  )(L'Oreal Professionnel Infinium Extra Strong (500ml) €10.95 from 5+ shops  )(L'Oreal Professionnel Hair styling Infinium Infinium Strong 500 ml €13.77 from 5+ shops  )
+
+
+Amazon: 'Loreal dang'
+Google: 'Loreal dang'
+No result: We found 0 results for "Loreal dang"
+Amazon result original: 'No result: We found 0 results for "Loreal dang"'
+Google result original: 'No result:    Your search - Loreal dang - did not match any shopping results.   Suggestions: Make sure that all words are spelled correctly.Try different keywords.Try more general keywords.Try fewer keywords.  '
+Amazon result modified: 'No result: We found 0 results for "Loreal dang"'
+Google result modified: 'No result:    Your search - Loreal dang - did not match any shopping results.   Suggestions: Make sure that all words are spelled correctly.Try different keywords.Try more general keywords.Try fewer keywords.  '
+Amazon hit pattern result: []
+Google hit pattern result: []
+writing to csv: Loreal dang,,No result: We found 0 results for "Loreal dang",No result:    Your search - Loreal dang - did not match any shopping results.   Suggestions: Make sure that all words are spelled correctly.Try different keywords.Try more general keywords.Try fewer keywords.  
+
+
+Amazon: 'L'Oreal' Dulcia'
+Google: 'L'Oreal' Dulcia'
+Google result entries: 5
+22 results for Beauty :  "L'Oreal' Dulcia"
+Amazon result original: '22 results for Beauty :  "L'Oreal' Dulcia"'
+Google result original: '(L'Oréal Care & Styling Dulcia Advanced 3 75ml €6.85 (£6.20) from 4 shops  )(L'Oréal Care & Styling Dulcia Advanced Fixer 1L €20.56 (£18.60) from 5+ shops  )(L'Oreal Professionnel Dulcia Tonic 1T 75Ml V272 75 1 €11.39 from 3 shops  )'
+Amazon result modified: '22 results for Beauty :  "L'Oreal' Dulcia"'
+Google result modified: '(L'Oréal Care & Styling Dulcia Advanced 3 75ml €6.85 (£6.20) from 4 shops  )(L'Oréal Care & Styling Dulcia Advanced Fixer 1L €20.56 (£18.60) from 5+ shops  )(L'Oreal Professionnel Dulcia Tonic 1T 75Ml V272 75 1 €11.39 from 3 shops  )'
+Amazon hit pattern result: [u'22']
+Google hit pattern result: [u'3', u'75', u'6', u'85', u'6', u'2', u'4', u'1', u'2', u'56', u'18', u'6', u'5', u'1', u'75', u'272', u'75', u'1', u'11', u'39', u'3']
+writing to csv: L'Oreal' Dulcia,Hits,22 results for Beauty :  "L'Oreal' Dulcia",(L'Oréal Care & Styling Dulcia Advanced 3 75ml €6.85 (£6.20) from 4 shops  )(L'Oréal Care & Styling Dulcia Advanced Fixer 1L €20.56 (£18.60) from 5+ shops  )(L'Oreal Professionnel Dulcia Tonic 1T 75Ml V272 75 1 €11.39 from 3 shops  )
+
+
+Amazon: 'L'Oreal' hair spa'
+Google: 'L'Oreal' hair spa'
+Google result entries: 10
+27 results for Beauty :  "L'Oreal' hair spa"
+Amazon result original: '27 results for Beauty :  "L'Oreal' hair spa"'
+Google result original: '(L'Oreal Professionnel Hair care Smartbond Conditioner 250 ml €19.43 from 5+ shops  )(L'Oreal Serie Expert Vitamino Color Masque 500ml €22.99 from 5+ shops  )(L'Oreal Serie Expert Absolute Cellular Masque 500ml €22.99 from 5+ shops  )'
+Amazon result modified: '27 results for Beauty :  "L'Oreal' hair spa"'
+Google result modified: '(L'Oreal Professionnel Hair care Smartbond Conditioner 250 ml €19.43 from 5+ shops  )(L'Oreal Serie Expert Vitamino Color Masque 500ml €22.99 from 5+ shops  )(L'Oreal Serie Expert Absolute Cellular Masque 500ml €22.99 from 5+ shops  )'
+Amazon hit pattern result: [u'27']
+Google hit pattern result: [u'25', u'19', u'43', u'5', u'5', u'22', u'99', u'5', u'5', u'22', u'99', u'5']
+writing to csv: L'Oreal' hair spa,Hits,27 results for Beauty :  "L'Oreal' hair spa",(L'Oreal Professionnel Hair care Smartbond Conditioner 250 ml €19.43 from 5+ shops  )(L'Oreal Serie Expert Vitamino Color Masque 500ml €22.99 from 5+ shops  )(L'Oreal Serie Expert Absolute Cellular Masque 500ml €22.99 from 5+ shops  )
+
+
+Amazon: 'L'Oreal' infinium'
+Google: 'L'Oreal' infinium'
+Google result entries: 8
+32 results for Beauty :  "L'Oreal' infinium"
+Amazon result original: '32 results for Beauty :  "L'Oreal' infinium"'
+Google result original: '(L'Oreal Professionnel Hair styling Infinium Infinium Extreme 75 ml €4.01 from parfumdreams.IE  )(L'Oreal Professionnel Infinium Soft (500ml) €9.45 from 5+ shops  )(L'Oreal Professionnel Infinium Extra Strong (500ml) €10.95 from 5+ shops  )'
+Amazon result modified: '32 results for Beauty :  "L'Oreal' infinium"'
+Google result modified: '(L'Oreal Professionnel Hair styling Infinium Infinium Extreme 75 ml €4.01 from parfumdreams.IE  )(L'Oreal Professionnel Infinium Soft (500ml) €9.45 from 5+ shops  )(L'Oreal Professionnel Infinium Extra Strong (500ml) €10.95 from 5+ shops  )'
+Amazon hit pattern result: [u'32']
+Google hit pattern result: [u'75', u'4', u'1', u'5', u'9', u'45', u'5', u'5', u'1', u'95', u'5']
+writing to csv: L'Oreal' infinium,Hits,32 results for Beauty :  "L'Oreal' infinium",(L'Oreal Professionnel Hair styling Infinium Infinium Extreme 75 ml €4.01 from parfumdreams.IE  )(L'Oreal Professionnel Infinium Soft (500ml) €9.45 from 5+ shops  )(L'Oreal Professionnel Infinium Extra Strong (500ml) €10.95 from 5+ shops  )
+
+
+Amazon: 'L'Oreal' botonical'
+Google: 'L'Oreal' botonical'
+Google result entries: 20
+1-48 of 73 results for Beauty :  "l'oreal' botanical"
+Amazon result original: '1-48 of 73 results for Beauty :  "l'oreal' botanical"'
+Google result original: '(Botanicals Coriander Strength Source Pack 2 pieces €15.76 from 2 shops  )(L'Oreal Serie Expert Sensi Balance Shampoo 1500ml €25.99 from 5+ shops  )(L'Oréal Paris Botanicals Lavender Sensitive Scalp Shampoo 400ml €9.59 from Feelunique  )'
+Amazon result modified: '1-48 of 73 results for Beauty :  "l'oreal' botanical"'
+Google result modified: '(Botanicals Coriander Strength Source Pack 2 pieces €15.76 from 2 shops  )(L'Oreal Serie Expert Sensi Balance Shampoo 1500ml €25.99 from 5+ shops  )(L'Oréal Paris Botanicals Lavender Sensitive Scalp Shampoo 400ml €9.59 from Feelunique  )'
+Amazon hit pattern result: [u'1', u'48', u'73']
+Google hit pattern result: [u'2', u'15', u'76', u'2', u'15', u'25', u'99', u'5', u'4', u'9', u'59']
+writing to csv: L'Oreal' botonical,Hits,1-48 of 73 results for Beauty :  "l'oreal' botanical",(Botanicals Coriander Strength Source Pack 2 pieces €15.76 from 2 shops  )(L'Oreal Serie Expert Sensi Balance Shampoo 1500ml €25.99 from 5+ shops  )(L'Oréal Paris Botanicals Lavender Sensitive Scalp Shampoo 400ml €9.59 from Feelunique  )
+
+
+Amazon: 'L'Oreal' lumi oil'
+Google: 'L'Oreal' lumi oil'
+Google result entries: 10
+4 results for Beauty :  "L'Oreal' lumi oil"
+Amazon result original: '4 results for Beauty :  "L'Oreal' lumi oil"'
+Google result original: '(L'Oreal Professionnel Hair care Mythic Oil Mythic Oil 30 ml €6.35 from parfumdreams.IE  )(L'Oreal Professionnel Mythic Oil Colour Glow Oil (100ml) €15.95 from 10+ shops  )(L'Oreal Paris Elvive Extraordinary Oil for All Hair Types €11.95 from 4 shops  )'
+Amazon result modified: '4 results for Beauty :  "L'Oreal' lumi oil"'
+Google result modified: '(L'Oreal Professionnel Hair care Mythic Oil Mythic Oil 30 ml €6.35 from parfumdreams.IE  )(L'Oreal Professionnel Mythic Oil Colour Glow Oil (100ml) €15.95 from 10+ shops  )(L'Oreal Paris Elvive Extraordinary Oil for All Hair Types €11.95 from 4 shops  )'
+Amazon hit pattern result: [u'4']
+Google hit pattern result: [u'3', u'6', u'35', u'1', u'15', u'95', u'1', u'11', u'95', u'4']
+writing to csv: L'Oreal' lumi oil,Hits,4 results for Beauty :  "L'Oreal' lumi oil",(L'Oreal Professionnel Hair care Mythic Oil Mythic Oil 30 ml €6.35 from parfumdreams.IE  )(L'Oreal Professionnel Mythic Oil Colour Glow Oil (100ml) €15.95 from 10+ shops  )(L'Oreal Paris Elvive Extraordinary Oil for All Hair Types €11.95 from 4 shops  )
+
+
+Amazon: 'L'Oreal' divers'
+Google: 'L'Oreal' divers'
+Google result entries: 10
+3 results for Beauty :  "L'Oreal' divers"
+Amazon result original: '3 results for Beauty :  "L'Oreal' divers"'
+Google result original: '(L’Oréal Paris Men Expert Barber Club Wash 200ml €6.95 from 5+ shops  )(L'Oreal Serie Expert Pump 1500ml €1.99 from Terrisales Salon Supplies  )(L'Oreal Serie Expert Vitamino Color Shampoo 1500ml €25.99 from 5+ shops  )'
+Amazon result modified: '3 results for Beauty :  "L'Oreal' divers"'
+Google result modified: '(L’Oréal Paris Men Expert Barber Club Wash 200ml €6.95 from 5+ shops  )(L'Oreal Serie Expert Pump 1500ml €1.99 from Terrisales Salon Supplies  )(L'Oreal Serie Expert Vitamino Color Shampoo 1500ml €25.99 from 5+ shops  )'
+Amazon hit pattern result: [u'3']
+Google hit pattern result: [u'2', u'6', u'95', u'5', u'15', u'1', u'99', u'15', u'25', u'99', u'5']
+writing to csv: L'Oreal' divers,Hits,3 results for Beauty :  "L'Oreal' divers",(L’Oréal Paris Men Expert Barber Club Wash 200ml €6.95 from 5+ shops  )(L'Oreal Serie Expert Pump 1500ml €1.99 from Terrisales Salon Supplies  )(L'Oreal Serie Expert Vitamino Color Shampoo 1500ml €25.99 from 5+ shops  )
+
+
+Amazon: 'L'Oreal' laques'
+Google: 'L'Oreal' laques'
+Google result entries: 6
+3 results for Beauty :  "l'oreal' plaques"
+Amazon result original: '3 results for Beauty :  "l'oreal' plaques"'
+Google result original: '(L'Oreal Professionnel Infinium Extra Strong (500ml) €10.95 from 5+ shops  )(L'Oreal Professionnel Hair styling Infinium Infinium Strong 500 ml €13.77 from 5+ shops  )(L'Oreal Professionnel Infinium Soft (500ml) €9.45 from 5+ shops  )'
+Amazon result modified: '3 results for Beauty :  "l'oreal' plaques"'
+Google result modified: '(L'Oreal Professionnel Infinium Extra Strong (500ml) €10.95 from 5+ shops  )(L'Oreal Professionnel Hair styling Infinium Infinium Strong 500 ml €13.77 from 5+ shops  )(L'Oreal Professionnel Infinium Soft (500ml) €9.45 from 5+ shops  )'
+Amazon hit pattern result: [u'3']
+Google hit pattern result: [u'5', u'1', u'95', u'5', u'5', u'13', u'77', u'5', u'5', u'9', u'45', u'5']
+writing to csv: L'Oreal' laques,Hits,3 results for Beauty :  "l'oreal' plaques",(L'Oreal Professionnel Infinium Extra Strong (500ml) €10.95 from 5+ shops  )(L'Oreal Professionnel Hair styling Infinium Infinium Strong 500 ml €13.77 from 5+ shops  )(L'Oreal Professionnel Infinium Soft (500ml) €9.45 from 5+ shops  )
+
+
+Amazon: 'L'Oreal' dang'
+Google: 'L'Oreal' dang'
+Google result entries: 10
+No result: We found 0 results for "L'Oreal' dang"
+Amazon result original: 'No result: We found 0 results for "L'Oreal' dang"'
+Google result original: '(L'Oréal Professionnel Série Expert Absolute Lipidium Repair Shampoo 500ml €14.95 from 5+ shops  )(L'Oréal Professionnel 1000ml Pump €2.95 from 3 shops  )(L'Oreal Professionnel Serie Expert Vitamino Color AOX Shampoo 100 ml €3.71 from parfumdreams.IE  )'
+Amazon result modified: 'No result: We found 0 results for "L'Oreal' dang"'
+Google result modified: '(L'Oréal Professionnel Série Expert Absolute Lipidium Repair Shampoo 500ml €14.95 from 5+ shops  )(L'Oréal Professionnel 1000ml Pump €2.95 from 3 shops  )(L'Oreal Professionnel Serie Expert Vitamino Color AOX Shampoo 100 ml €3.71 from parfumdreams.IE  )'
+Amazon hit pattern result: []
+Google hit pattern result: [u'5', u'14', u'95', u'5', u'1', u'2', u'95', u'3', u'1', u'3', u'71']
+writing to csv: L'Oreal' dang,Hit,No result: We found 0 results for "L'Oreal' dang",(L'Oréal Professionnel Série Expert Absolute Lipidium Repair Shampoo 500ml €14.95 from 5+ shops  )(L'Oréal Professionnel 1000ml Pump €2.95 from 3 shops  )(L'Oreal Professionnel Serie Expert Vitamino Color AOX Shampoo 100 ml €3.71 from parfumdreams.IE  )
+
+
